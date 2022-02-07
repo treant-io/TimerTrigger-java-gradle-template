@@ -2,6 +2,9 @@
 target/
 *.class
 .gradle/
+build/
+target/
+out/
 
 # Log file
 *.log
@@ -13,7 +16,7 @@ target/
 .mtj.tmp/
 
 # Package Files #
-*.jar
+#*.jar
 *.war
 *.ear
 *.zip
